@@ -7,5 +7,5 @@ Problems are organized by difficulty: Easy, Medium, Hard.
 Each file is named `[problem_number]_[problem_name].py`.
 
 ## Example:
-- `easy/1_two_sum.py`
+- `easy/1_merge_strings_alternately.py`
 
